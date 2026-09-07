@@ -1,0 +1,11 @@
+Estimator,Constant,Value,R2,Fit
+moment_quant_exact_samples,c_1,3.3529143825797334e-09,0.9996802212302052,joint_3param
+moment_quant_exact_samples,c_2,7.716235835871156e-07,0.9996802212302052,joint_3param
+moment_quant_exact_samples,c_3,-1.83413529418797e-07,0.9996802212302052,joint_3param
+moment_quant_exact_samples,c_1,3.0804003639112013e-09,0.9991843150110574,robust_2param
+moment_quant_exact_samples,c2_plus_ratio_c3,4.8511799642682473e-08,0.9991843150110574,robust_2param
+moment_quant_exact_intervals,c_1,2.1315187146471345e-09,0.9998839320655519,joint_3param
+moment_quant_exact_intervals,c_2,-4.9249105774824686e-09,0.9998839320655519,joint_3param
+moment_quant_exact_intervals,c_3,3.3785431154920808e-09,0.9998839320655519,joint_3param
+moment_quant_exact_intervals,c_1,2.1365385207899324e-09,0.9998833704612947,robust_2param
+moment_quant_exact_intervals,c2_plus_ratio_c3,8.395068309125543e-09,0.9998833704612947,robust_2param

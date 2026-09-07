@@ -1,0 +1,13 @@
+Estimator,Constant,Value,Intercept,R2,Fit
+moment_quant_exact_samples,c_1,4.072879465870114e-09,0.0005045109679690987,0.9994618168695429,microbench_sort
+moment_quant_exact_intervals,c_1,1.8336876842655877e-09,-4.965220015588999e-05,0.998512585612668,microbench_sort
+moment_quant_exact_samples,c_3,6.69360712197536e-10,-9.918525602400684e-06,0.8917378392787745,microbench_mean
+moment_quant_exact_intervals,c_3,1.991889133821438e-10,1.493444665981068e-05,0.9955881360738517,microbench_mean
+moment_quant_exact_samples,c_2,1.1592837225586698e-09,3.7051039823596474e-06,0.9779427417510355,microbench_interp_m64
+moment_quant_exact_samples,c_2,2.357800105284857e-09,4.112997423137329e-06,0.07643600511873916,microbench_interp_m512
+moment_quant_exact_samples,c_2,6.3606095618158005e-09,9.185809810210232e-06,-3.6762062083710694,microbench_interp_m4096
+moment_quant_exact_samples,c_2,3.292564463219776e-09,,,microbench_interp_pooled_mean
+moment_quant_exact_intervals,c_2,5.085361286190984e-09,6.629514221268146e-06,0.964898539132127,microbench_interp_m64
+moment_quant_exact_intervals,c_2,6.4868978787359204e-09,5.960855738369e-06,0.9504650757426274,microbench_interp_m512
+moment_quant_exact_intervals,c_2,1.2087398817911186e-08,1.4931275579996223e-05,0.9934729865424063,microbench_interp_m4096
+moment_quant_exact_intervals,c_2,7.88655266094603e-09,,,microbench_interp_pooled_mean

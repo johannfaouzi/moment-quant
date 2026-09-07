@@ -1,0 +1,3 @@
+Mode,SlopeEstimator,ConstantsEstimator,CurveModel,A,B,C,P,r2_curve,n_grid_points,assumption
+exact,moment_quant_exact_samples,moment_quant_exact_samples,a_minus_b_over_l,3.7281498261439245e-06,5.305676378326558e-05,,,0.028769527261076955,50,True
+approx,moment_quant_approx_samples,moment_quant_approx_samples,power_law,-3.903592622899194e-06,,6.464495311897848e-07,0.7547763114444873,0.9884009149737085,50,False

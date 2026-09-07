@@ -1,0 +1,7 @@
+Estimator,Constant,Value,Intercept,R2,Fit
+moment_quant_approx_samples,c1_tilde,5.387990186685053e-09,0.0006986343503433021,0.9959410742348557,microbench_moment_real_layout
+moment_quant_approx_intervals,c1_tilde,7.554539728500694e-09,0.0017676282150085483,0.508332399365617,microbench_moment_real_layout
+moment_quant_approx_samples,c2_tilde,4.7484494337768374e-09,-0.00034232663851170597,0.9986377466905486,microbench_cf_joint_real_layout
+moment_quant_approx_samples,c3_tilde,2.9212075428873392e-08,-0.00034232663851170597,0.9986377466905486,microbench_cf_joint_real_layout
+moment_quant_approx_intervals,c2_tilde,4.7484494337768374e-09,-0.00034232663851170597,0.9986377466905486,microbench_cf_joint_real_layout
+moment_quant_approx_intervals,c3_tilde,2.9212075428873392e-08,-0.00034232663851170597,0.9986377466905486,microbench_cf_joint_real_layout

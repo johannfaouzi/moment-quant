@@ -1,0 +1,11 @@
+Estimator,Constant,Value,R2,Fit
+moment_quant_approx_samples,c1_tilde,3.6114551367125985e-08,0.9994759842954085,joint_3param
+moment_quant_approx_samples,c2_tilde,-1.0968993257126764e-07,0.9994759842954085,joint_3param
+moment_quant_approx_samples,c3_tilde,8.799237072602823e-08,0.9994759842954085,joint_3param
+moment_quant_approx_samples,c1_plus_ratio_c2_tilde,8.733150605194194e-09,0.9993770433042916,robust_2param
+moment_quant_approx_samples,c3_tilde,7.300634208238924e-08,0.9993770433042916,robust_2param
+moment_quant_approx_intervals,c1_tilde,2.9243719865895153e-08,0.9991095666603486,joint_3param
+moment_quant_approx_intervals,c2_tilde,-8.853947973175006e-08,0.9991095666603486,joint_3param
+moment_quant_approx_intervals,c3_tilde,1.317175313211172e-07,0.9991095666603486,joint_3param
+moment_quant_approx_intervals,c1_plus_ratio_c2_tilde,7.142010794163731e-09,0.9990148603812402,robust_2param
+moment_quant_approx_intervals,c3_tilde,1.1962111419103258e-07,0.9990148603812402,robust_2param
